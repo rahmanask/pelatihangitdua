@@ -1,1 +1,5 @@
-Pelatihan git
+1. Pelatihan git
+
+2. Perubahan 2
+
+3. perubahan 3
